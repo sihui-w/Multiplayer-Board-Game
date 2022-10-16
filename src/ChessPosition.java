@@ -1,3 +1,6 @@
+/**
+ * define chess position
+ */
 public class ChessPosition {
     public  int listi, listj;
 
