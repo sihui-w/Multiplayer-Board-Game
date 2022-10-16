@@ -5,7 +5,9 @@ import java.awt.Dimension;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-
+/**
+ * run here
+ */
 public class GoBangFrame extends JPanel implements GoBangConfig {
 
     // painter
