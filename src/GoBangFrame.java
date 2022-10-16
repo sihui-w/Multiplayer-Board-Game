@@ -31,10 +31,9 @@ public class GoBangFrame extends JPanel implements GoBangConfig {
         gf.initUI();
     }
 
-
     public void initUI(){
 
-        // unilaize a layout
+        // utilize a layout
         JFrame jf = new JFrame();
         jf.setTitle("Five Chess");
         jf.setSize(800,650);
